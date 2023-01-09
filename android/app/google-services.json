@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787170133814",
+    "project_id": "mychatapp-14425",
+    "storage_bucket": "mychatapp-14425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787170133814:android:293868411611a4e0255597",
+        "android_client_info": {
+          "package_name": "com.AlaEddineAbbassi.chat_app_firebise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787170133814-87f9lma9ceitn3dklkq597f5g1dp037g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoUNqzUYiiqmNkvXfjI-AuTRjJlUWfvX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787170133814-87f9lma9ceitn3dklkq597f5g1dp037g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
